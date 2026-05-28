@@ -34,3 +34,10 @@ A simple and stylish Expense Tracker built using React.js.
 ```bash
 npm install
 npm start
+```
+
+---
+
+## 🔗 GitHub Repository
+
+https://github.com/Suman1-panda/expense-tracker-react
